@@ -1,0 +1,11 @@
+john R. Doe	Auto loan		23600   3.5	12	 6.25
+Mary Ann Smith	Business Expansion		250000 10	 4	 5.75
+John Jacob Astor	Personal Loan	6000000	5	1	 0
+Kadi K. Kennedy	Home Refinance		250000.00 15.0	12	 5.50
+Jason Jones	Auto Loan		125000.00 5.0	12	 0.00
+Sarah Innovator	Small Business Loan		125000.00 5.0	12	 5.75
+Johnny W. Football	Home Loan		750000.00 5.0	2	 6.25
+John Q. Adams	Business Expansion		600000.00 3.0	1	 2.50
+Suzy Q. Public	Home Loan		125000.00  30.0	12	5.00
+
+

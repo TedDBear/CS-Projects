@@ -1,0 +1,16 @@
+                                                 LOAN PAYMENT REPORT
+                                                     October 2021
+
+Name of             Loan                      Amount   Payment   Terms                Payment        Total       Total
+Borrower            Type                    Financed     Years     Per        APR      Amount     Payments    Interest
+----------------------------------------------------------------------------------------------------------------------
+Preston Flowers     Auto Loan            $  36000.00       5.0      12      5.75% $    691.80 $   41508.00 $   5508.00
+Daisy Holt          House Loan             300000.00      15.0      12      3.48%     2141.70    385506.00    85506.00
+Jean Fisher         Home Remodel            50000.00       3.0      12      6.87%     1540.88     55471.68     5471.68
+Antonio Bishop      Business Expansion     750000.00      10.0       4      6.25%    25357.27   1014290.80   264290.80
+Peggy Bacon         Business startup      5000000.00      12.0       4      5.36%   141906.35   6811504.80  1811504.80
+Kyle Mcgee          Payday Loan              1000.00       2.0      12     30.00%       55.91      1341.84      341.84
+Penny Marshall      Personal Loan           75000.00       6.0      12      8.00%     1314.99     94679.28    19679.28
+----------------------------------------------------------------------------------------------------------------------
+                                Totals   $6212000.00                                          $ 8404302.40 $2192302.40
+                               Average   $ 887428.57                                          $ 1200614.63 $ 313186.06

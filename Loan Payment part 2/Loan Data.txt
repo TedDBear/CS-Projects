@@ -1,0 +1,7 @@
+Preston Flowers	Auto Loan	36000	5	12	5.75
+Daisy Holt	House Loan	300000	15	12	3.48
+Jean Fisher	Home Remodel	50000	3	12	6.87
+Antonio Bishop	Business Expansion	750000	10	4	6.25
+Peggy Bacon	Business startup	5e+06	12	4	5.36
+Kyle Mcgee	Payday Loan	1000	2	12	30
+Penny Marshall	Personal Loan	75000	6	12	8

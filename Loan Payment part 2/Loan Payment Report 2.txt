@@ -1,0 +1,18 @@
+                                                 LOAN PAYMENT REPORT
+                                                     October 2021
+
+Name of             Loan                      Amount   Payment   Terms                Payment        Total       Total
+Borrower            Type                    Financed     Years     Per        APR      Amount     Payments    Interest
+----------------------------------------------------------------------------------------------------------------------
+john R. Doe         Auto loan            $  23600.00       3.5      12      6.25% $    627.06 $   26336.52 $   2736.52
+Mary Ann Smith      Business Expansion     250000.00      10.0       4      5.75%     8261.74    330469.60    80469.60
+John Jacob Astor    Personal Loan         6000000.00       5.0       1      0.00%  1200000.00   6000000.00        0.00
+Kadi K. Kennedy     Home Refinance         250000.00      15.0      12      5.50%     2042.71    367687.80   117687.80
+Jason Jones         Auto Loan              125000.00       5.0      12      0.00%     2083.33    124999.80       -0.20
+Sarah Innovator     Small Business Loan    125000.00       5.0      12      5.75%     2402.10    144126.00    19126.00
+Johnny W. Football  Home Loan              750000.00       5.0       2      6.25%    88484.68    884846.80   134846.80
+John Q. Adams       Business Expansion     600000.00       3.0       1      2.50%   210082.30    630246.90    30246.90
+Suzy Q. Public      Home Loan              125000.00      30.0      12      5.00%      671.03    241570.80   116570.80
+----------------------------------------------------------------------------------------------------------------------
+                                Totals   $8248600.00                                          $ 8750284.22 $ 501684.22
+                               Average   $ 916511.11                                          $  972253.80 $  55742.69
