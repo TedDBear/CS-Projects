@@ -1,0 +1,70 @@
+
+        Grade Report for COSC 1436 F21 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Alexander Abijah                 32       100      78.0         C
+Austen Carlson                   55        80      68.0         D
+Willard Daniel                 -100        50     -38.0         *
+Selena Gomez                     73        85      80.0         B
+Julia K. Hunter                   6        60      38.0         F
+Invalid: Lovett Lyle              9       100      90.0         A
+Adrianna Reeve                   79       100      93.0         A
+Frank T. Utz                    100       120     110.0         *
+Stevie Ray Vaughan               65       100      87.0         B
+
+        Grade Report for COSC 1436 F21 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Willard Daniel                 -100        50     -38.0         *
+Julia K. Hunter                   6        60      38.0         F
+Invalid: Lovett Lyle              9       100      90.0         A
+Alexander Abijah                 32       100      78.0         C
+Austen Carlson                   55        80      68.0         D
+Stevie Ray Vaughan               65       100      87.0         B
+Selena Gomez                     73        85      80.0         B
+Adrianna Reeve                   79       100      93.0         A
+Frank T. Utz                    100       120     110.0         *
+
+        Grade Report for COSC 1436 F21 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Willard Daniel                 -100        50     -38.0         *
+Julia K. Hunter                   6        60      38.0         F
+Austen Carlson                   55        80      68.0         D
+Selena Gomez                     73        85      80.0         B
+Invalid: Lovett Lyle              9       100      90.0         A
+Stevie Ray Vaughan               65       100      87.0         B
+Alexander Abijah                 32       100      78.0         C
+Adrianna Reeve                   79       100      93.0         A
+Frank T. Utz                    100       120     110.0         *
+
+        Grade Report for COSC 1436 F21 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Willard Daniel                 -100        50     -38.0         *
+Julia K. Hunter                   6        60      38.0         F
+Austen Carlson                   55        80      68.0         D
+Alexander Abijah                 32       100      78.0         C
+Selena Gomez                     73        85      80.0         B
+Stevie Ray Vaughan               65       100      87.0         B
+Invalid: Lovett Lyle              9       100      90.0         A
+Adrianna Reeve                   79       100      93.0         A
+Frank T. Utz                    100       120     110.0         *
+
+        Grade Report for COSC 1436 F21 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Willard Daniel                 -100        50     -38.0         *
+Frank T. Utz                    100       120     110.0         *
+Invalid: Lovett Lyle              9       100      90.0         A
+Adrianna Reeve                   79       100      93.0         A
+Selena Gomez                     73        85      80.0         B
+Stevie Ray Vaughan               65       100      87.0         B
+Alexander Abijah                 32       100      78.0         C
+Austen Carlson                   55        80      68.0         D
+Julia K. Hunter                   6        60      38.0         F

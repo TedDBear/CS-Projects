@@ -1,0 +1,125 @@
+
+          Grade Report for MEME 1420 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Grubhub Ad                       16       100      46.0         F
+Play Boy Advance                 73        96      84.0         B
+Say Tuna Sub Backwards           69       100      84.0         B
+Ted D. Bear                     100       100     100.0         A
+Snotty Boy                       58        98      80.0         B
+Bad Luck Brain                 -900       100       0.0         F
+Grumpy Cat                        1        25      12.0         F
+Big Chungus                      81       100      91.0         A
+Doge Coin                        45        85      70.0         C
+MMM Cow                          55        89      71.0         C
+Robert Ducky                     74       100      90.0         A
+Petey File                       69        69      69.0         D
+Ready Freddy                     62        94      76.0         C
+Among Gus                        60        75      65.0         D
+Leeroy Jankins                   62       100      84.0         B
+Yo Mama                          75        96      85.0         B
+F. Green Scales                   0         0       0.0         F
+Waluigi in Smash                 91        99      94.0         A
+Invalid: The Earth's Flat      -100         0     -50.0         *
+Baby Yoda                        90       100      95.0         A
+
+          Grade Report for MEME 1420 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Bad Luck Brain                 -900       100       0.0         F
+Invalid: The Earth's Flat      -100         0     -50.0         *
+F. Green Scales                   0         0       0.0         F
+Grumpy Cat                        1        25      12.0         F
+Grubhub Ad                       16       100      46.0         F
+Doge Coin                        45        85      70.0         C
+MMM Cow                          55        89      71.0         C
+Snotty Boy                       58        98      80.0         B
+Among Gus                        60        75      65.0         D
+Ready Freddy                     62        94      76.0         C
+Leeroy Jankins                   62       100      84.0         B
+Petey File                       69        69      69.0         D
+Say Tuna Sub Backwards           69       100      84.0         B
+Play Boy Advance                 73        96      84.0         B
+Robert Ducky                     74       100      90.0         A
+Yo Mama                          75        96      85.0         B
+Big Chungus                      81       100      91.0         A
+Baby Yoda                        90       100      95.0         A
+Waluigi in Smash                 91        99      94.0         A
+Ted D. Bear                     100       100     100.0         A
+
+          Grade Report for MEME 1420 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Invalid: The Earth's Flat      -100         0     -50.0         *
+F. Green Scales                   0         0       0.0         F
+Grumpy Cat                        1        25      12.0         F
+Petey File                       69        69      69.0         D
+Among Gus                        60        75      65.0         D
+Doge Coin                        45        85      70.0         C
+MMM Cow                          55        89      71.0         C
+Ready Freddy                     62        94      76.0         C
+Play Boy Advance                 73        96      84.0         B
+Yo Mama                          75        96      85.0         B
+Snotty Boy                       58        98      80.0         B
+Waluigi in Smash                 91        99      94.0         A
+Say Tuna Sub Backwards           69       100      84.0         B
+Grubhub Ad                       16       100      46.0         F
+Robert Ducky                     74       100      90.0         A
+Leeroy Jankins                   62       100      84.0         B
+Big Chungus                      81       100      91.0         A
+Baby Yoda                        90       100      95.0         A
+Bad Luck Brain                 -900       100       0.0         F
+Ted D. Bear                     100       100     100.0         A
+
+          Grade Report for MEME 1420 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Invalid: The Earth's Flat      -100         0     -50.0         *
+F. Green Scales                   0         0       0.0         F
+Bad Luck Brain                 -900       100       0.0         F
+Grumpy Cat                        1        25      12.0         F
+Grubhub Ad                       16       100      46.0         F
+Among Gus                        60        75      65.0         D
+Petey File                       69        69      69.0         D
+Doge Coin                        45        85      70.0         C
+MMM Cow                          55        89      71.0         C
+Ready Freddy                     62        94      76.0         C
+Snotty Boy                       58        98      80.0         B
+Say Tuna Sub Backwards           69       100      84.0         B
+Leeroy Jankins                   62       100      84.0         B
+Play Boy Advance                 73        96      84.0         B
+Yo Mama                          75        96      85.0         B
+Robert Ducky                     74       100      90.0         A
+Big Chungus                      81       100      91.0         A
+Waluigi in Smash                 91        99      94.0         A
+Baby Yoda                        90       100      95.0         A
+Ted D. Bear                     100       100     100.0         A
+
+          Grade Report for MEME 1420 - November 5, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Invalid: The Earth's Flat      -100         0     -50.0         *
+Robert Ducky                     74       100      90.0         A
+Big Chungus                      81       100      91.0         A
+Waluigi in Smash                 91        99      94.0         A
+Baby Yoda                        90       100      95.0         A
+Ted D. Bear                     100       100     100.0         A
+Snotty Boy                       58        98      80.0         B
+Say Tuna Sub Backwards           69       100      84.0         B
+Leeroy Jankins                   62       100      84.0         B
+Play Boy Advance                 73        96      84.0         B
+Yo Mama                          75        96      85.0         B
+Doge Coin                        45        85      70.0         C
+MMM Cow                          55        89      71.0         C
+Ready Freddy                     62        94      76.0         C
+Petey File                       69        69      69.0         D
+Among Gus                        60        75      65.0         D
+Bad Luck Brain                 -900       100       0.0         F
+Grumpy Cat                        1        25      12.0         F
+Grubhub Ad                       16       100      46.0         F
+F. Green Scales                   0         0       0.0         F

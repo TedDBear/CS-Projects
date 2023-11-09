@@ -1,0 +1,13 @@
+        Grade Report for COSC 1436 F21 - October 25, 2021
+
+Student Name                    Min       Max   Average     Grade
+-----------------------------------------------------------------
+Stevie Ray Vaughan               65       100      86.6         B
+Selena Gomez                     73        85      79.5         B
+Invalid: Lovett Lyle              9       100      89.5         A
+Alexander Abijah                 32       100      77.6         C
+Austen Carlson                   55        80      68.3         D
+Adrianna Reeve                   79       100      92.8         A
+Julia K. Hunter                   6        60      38.4         F
+Frank T. Utz                    100       120     110.0         *
+Willard Daniel                 -100        50     -37.5         *

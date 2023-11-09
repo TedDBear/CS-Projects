@@ -1,0 +1,9 @@
+Vaughan, Stevie Ray	98 100 77 89 95 88 73 65 90 91
+Gomez, Selena	 	73 80 85 80 78 75 85 79 75 85
+Lovett Lyle		     9 100 98 97 96 99 99 99 99 99
+Abijah, Alexander	72 76 79 74 82 32 99 100 94 68 
+Carlson, Austen		75 68 72 63 69 58 65 80 78 55
+Reeve, Adrianna		79 100 95 92 99 96 89 88 90 100
+Hunter, Julia Kate	45 59 32 48 53 17 35 29 6 60		
+Utz, Frank Tye	    100 110 110 110 110 110 110 110 110 120
+Daniel, Willard		-100 50 -20 -10 -75 -53 -25 -43 -45 -54 
