@@ -1,0 +1,3 @@
+In this paper, I will test to see if "in this paper" can be read in a text file,
+and if I can make the program extract the sentence it came from.
+Here is another sentence to show that the program will not bother reading it once it extracts the previous sentence.
