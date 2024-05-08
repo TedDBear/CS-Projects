@@ -6,3 +6,5 @@ Descriptions for notable projects:
 2. COSC 2325: Contains programs that were coded in the assembly language MIPS.
 3. Lexi Crunch: Lexi Crunch is a word game that requires players to think of as many words from a group of 100 letters as possible in a 60 second time frame. It was coded using HTML, CSS, JavaScript, and React. 
 4. PDF Reader: Converts all of the PDF files in the Research Paper folder from PDFs to text files.
+5. Craig.com: An information retrival system that determines the similarity of two documents.
+6. Tripshare Database: Cotains all of the necessary diagrams to design the database and the datbase itself. The database was coded using MySQL
