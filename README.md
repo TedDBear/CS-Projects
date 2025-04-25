@@ -1,10 +1,11 @@
-This is where I store all of my Computer Science Projects that I have created over the course of being a Computer Science Major.
+This is where I store all of my Computer Science Projects I have created throughout my time as a Computer Science Major.
 
 Descriptions for notable projects:
 
-1. Data Structures: Contains all of my programs that have a heavy emphasis on creating and using data structures.
+1. Data Structures: This folder contains all of my programs that emphasize creating and using data structures.
 2. COSC 2325: Contains programs that were coded in the assembly language MIPS.
 3. Lexi Crunch: Lexi Crunch is a word game that requires players to think of as many words from a group of 100 letters as possible in a 60 second time frame. It was coded using HTML, CSS, JavaScript, and React. 
-4. PDF Reader: Converts all of the PDF files in the Research Paper folder from PDFs to text files.
-5. Craig.com: An information retrival system that determines the similarity of two documents.
-6. Tripshare Database: Cotains all of the necessary diagrams to design the database and the datbase itself. The database was coded using MySQL
+4. PDF Reader: Converts the PDF files in the Research Paper folder from PDFs to text files.
+5. Craig.com: An information retrieval system that determines the similarity of two documents.
+6. Tripshare Database: Contains all of the necessary diagrams to design the database and the SQL file for it. The database was coded using MySQL.
+7. Sprout: An interactive web platform powered by React and Next.js, designed to educate users about gardening and assist in planning personalized gardens. This project won first runner-up at the Spring 2025 Capstone fair at UT Tyler. 
