@@ -1,5 +1,5 @@
 How to run Sprout
-1. On the command line type "cd [location of Sprout folder]/my-app"
+1. On the command line type "cd C:\Path\To\My\Folder\my-app"
 2. Type "npm install"
 3. Type "npm install next"
 4. Type "npm run dev"
